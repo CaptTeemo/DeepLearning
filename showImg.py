@@ -7,7 +7,7 @@ import pylab
 from scipy import misc
 import numpy as np
 
-#AnotherComment
+#AnotherComment1
 
 # Display image
 img=mpimg.imread('pout.jpg')   # read image png format
